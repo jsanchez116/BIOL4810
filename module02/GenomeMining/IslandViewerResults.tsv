@@ -1,0 +1,561 @@
+Island start	Island end	Length	Method	Gene name	Gene ID	Locus	Gene start	Gene end	Strand	Product	External Annotations
+253934	282561	28627	Predicted by at least one method			NCJPFIPA_03353	253934	257803	1	hypothetical protein	
+253934	282561	28627	Predicted by at least one method			NCJPFIPA_03352	257803	258591	1	hypothetical protein	
+253934	282561	28627	Predicted by at least one method			NCJPFIPA_03351	258618	259004	1	hypothetical protein	
+253934	282561	28627	Predicted by at least one method			NCJPFIPA_03350	259031	259549	1	hypothetical protein	
+253934	282561	28627	Predicted by at least one method			NCJPFIPA_03349	259946	262135	1	hypothetical protein	
+253934	282561	28627	Predicted by at least one method			NCJPFIPA_03348	262159	262605	1	hypothetical protein	
+253934	282561	28627	Predicted by at least one method		rhsB	NCJPFIPA_03347	262624	266718	1	putative deoxyribonuclease RhsB	
+253934	282561	28627	Predicted by at least one method			NCJPFIPA_03346	266712	266975	1	hypothetical protein	
+253934	282561	28627	Predicted by at least one method			NCJPFIPA_03345	267135	267908	1	hypothetical protein	
+253934	282561	28627	Predicted by at least one method			NCJPFIPA_03344	267902	268348	1	hypothetical protein	
+253934	282561	28627	Predicted by at least one method			NCJPFIPA_03343	268676	268813	-1	hypothetical protein	
+253934	282561	28627	Predicted by at least one method			NCJPFIPA_03342	268911	269348	1	hypothetical protein	
+253934	282561	28627	Predicted by at least one method		symE_2	NCJPFIPA_03341	269401	269676	-1	Endoribonuclease SymE	
+253934	282561	28627	Predicted by at least one method			NCJPFIPA_03340	270174	270425	1	hypothetical protein	
+253934	282561	28627	Predicted by at least one method			NCJPFIPA_03339	270418	270576	1	hypothetical protein	
+253934	282561	28627	Predicted by at least one method			NCJPFIPA_03338	270828	271025	1	hypothetical protein	
+253934	282561	28627	Predicted by at least one method			NCJPFIPA_03337	271251	271532	1	IS3 family transposase IS1351	
+253934	282561	28627	Predicted by at least one method			NCJPFIPA_03336	272294	272794	1	hypothetical protein	
+253934	282561	28627	Predicted by at least one method		caf1M	NCJPFIPA_03335	272902	273615	1	Chaperone protein caf1M	
+253934	282561	28627	Predicted by at least one method		caf1A	NCJPFIPA_03334	273639	276149	1	F1 capsule-anchoring protein	
+253934	282561	28627	Predicted by at least one method		afaD	NCJPFIPA_03333	276171	276641	1	Protein AfaD	
+253934	282561	28627	Predicted by at least one method			NCJPFIPA_03332	277047	277868	1	hypothetical protein	
+253934	282561	28627	Predicted by at least one method			NCJPFIPA_03331	277750	278361	-1	hypothetical protein	
+253934	282561	28627	Predicted by at least one method		dmlR_5	NCJPFIPA_03330	278683	279630	1	HTH-type transcriptional regulator DmlR	
+253934	282561	28627	Predicted by at least one method		pagN	NCJPFIPA_03329	279966	280685	-1	Outer membrane protein PagN	
+253934	282561	28627	Predicted by at least one method			NCJPFIPA_03328	281016	281423	-1	hypothetical protein	
+253934	282561	28627	Predicted by at least one method		yafV	NCJPFIPA_03327	281794	282561	-1	Omega-amidase YafV	
+266712	273615	6903	Predicted by at least one method		rhsB	NCJPFIPA_03347	262624	266718	1	putative deoxyribonuclease RhsB	
+266712	273615	6903	Predicted by at least one method			NCJPFIPA_03346	266712	266975	1	hypothetical protein	
+266712	273615	6903	Predicted by at least one method			NCJPFIPA_03345	267135	267908	1	hypothetical protein	
+266712	273615	6903	Predicted by at least one method			NCJPFIPA_03344	267902	268348	1	hypothetical protein	
+266712	273615	6903	Predicted by at least one method			NCJPFIPA_03343	268676	268813	-1	hypothetical protein	
+266712	273615	6903	Predicted by at least one method			NCJPFIPA_03342	268911	269348	1	hypothetical protein	
+266712	273615	6903	Predicted by at least one method		symE_2	NCJPFIPA_03341	269401	269676	-1	Endoribonuclease SymE	
+266712	273615	6903	Predicted by at least one method			NCJPFIPA_03340	270174	270425	1	hypothetical protein	
+266712	273615	6903	Predicted by at least one method			NCJPFIPA_03339	270418	270576	1	hypothetical protein	
+266712	273615	6903	Predicted by at least one method			NCJPFIPA_03338	270828	271025	1	hypothetical protein	
+266712	273615	6903	Predicted by at least one method			NCJPFIPA_03337	271251	271532	1	IS3 family transposase IS1351	
+266712	273615	6903	Predicted by at least one method			NCJPFIPA_03336	272294	272794	1	hypothetical protein	
+266712	273615	6903	Predicted by at least one method		caf1M	NCJPFIPA_03335	272902	273615	1	Chaperone protein caf1M	
+276171	281423	5252	Predicted by at least one method		afaD	NCJPFIPA_03333	276171	276641	1	Protein AfaD	
+276171	281423	5252	Predicted by at least one method			NCJPFIPA_03332	277047	277868	1	hypothetical protein	
+276171	281423	5252	Predicted by at least one method			NCJPFIPA_03331	277750	278361	-1	hypothetical protein	
+276171	281423	5252	Predicted by at least one method		dmlR_5	NCJPFIPA_03330	278683	279630	1	HTH-type transcriptional regulator DmlR	
+276171	281423	5252	Predicted by at least one method		pagN	NCJPFIPA_03329	279966	280685	-1	Outer membrane protein PagN	
+276171	281423	5252	Predicted by at least one method			NCJPFIPA_03328	281016	281423	-1	hypothetical protein	
+301432	307476	6044	Predicted by at least one method			NCJPFIPA_03306	301432	301881	-1	hypothetical protein	
+301432	307476	6044	Predicted by at least one method			NCJPFIPA_03305	301883	302182	-1	hypothetical protein	
+301432	307476	6044	Predicted by at least one method			NCJPFIPA_03304	302179	302577	-1	hypothetical protein	
+301432	307476	6044	Predicted by at least one method			NCJPFIPA_03303	302749	303042	-1	hypothetical protein	
+301432	307476	6044	Predicted by at least one method			NCJPFIPA_03302	303089	303373	-1	hypothetical protein	
+301432	307476	6044	Predicted by at least one method			NCJPFIPA_03301	303373	304080	-1	hypothetical protein	
+301432	307476	6044	Predicted by at least one method			NCJPFIPA_03300	304077	304220	-1	hypothetical protein	
+301432	307476	6044	Predicted by at least one method			NCJPFIPA_03299	304210	304398	-1	hypothetical protein	
+301432	307476	6044	Predicted by at least one method			NCJPFIPA_03298	304730	304855	-1	hypothetical protein	
+301432	307476	6044	Predicted by at least one method			NCJPFIPA_03297	304855	305145	-1	hypothetical protein	
+301432	307476	6044	Predicted by at least one method			NCJPFIPA_03296	305177	305419	-1	hypothetical protein	
+301432	307476	6044	Predicted by at least one method			NCJPFIPA_03295	305447	305647	-1	hypothetical protein	
+301432	307476	6044	Predicted by at least one method			NCJPFIPA_03294	305862	306440	1	hypothetical protein	
+301432	307476	6044	Predicted by at least one method			NCJPFIPA_03293	306461	306763	-1	hypothetical protein	
+301432	307476	6044	Predicted by at least one method			NCJPFIPA_03292	307117	307476	-1	putative HTH-type transcriptional regulator	
+312101	316930	4829	Predicted by at least one method			NCJPFIPA_03284	311932	312108	1	hypothetical protein	
+312101	316930	4829	Predicted by at least one method			NCJPFIPA_03283	312101	312712	1	hypothetical protein	
+312101	316930	4829	Predicted by at least one method			NCJPFIPA_03282	312709	312933	1	hypothetical protein	
+312101	316930	4829	Predicted by at least one method			NCJPFIPA_03281	312930	313133	1	hypothetical protein	
+312101	316930	4829	Predicted by at least one method			NCJPFIPA_03280	313114	313293	1	hypothetical protein	
+312101	316930	4829	Predicted by at least one method			NCJPFIPA_03279	313290	313913	1	hypothetical protein	
+312101	316930	4829	Predicted by at least one method			NCJPFIPA_03278	314239	314757	1	hypothetical protein	
+312101	316930	4829	Predicted by at least one method			NCJPFIPA_03277	314982	315308	1	hypothetical protein	
+312101	316930	4829	Predicted by at least one method		rrrD	NCJPFIPA_03276	315292	315729	1	Lysozyme RrrD	
+312101	316930	4829	Predicted by at least one method			NCJPFIPA_03275	315726	316196	1	hypothetical protein	
+312101	316930	4829	Predicted by at least one method			NCJPFIPA_03274	316409	316930	1	hypothetical protein	
+324695	343644	18949	Predicted by at least one method			NCJPFIPA_03265	324695	324904	1	hypothetical protein	
+324695	343644	18949	Predicted by at least one method			NCJPFIPA_03264	324888	325388	1	hypothetical protein	
+324695	343644	18949	Predicted by at least one method			NCJPFIPA_03263	325348	326766	1	hypothetical protein	
+324695	343644	18949	Predicted by at least one method			NCJPFIPA_03262	326770	327408	1	hypothetical protein	
+324695	343644	18949	Predicted by at least one method			NCJPFIPA_03261	327408	327863	1	hypothetical protein	
+324695	343644	18949	Predicted by at least one method			NCJPFIPA_03260	327866	328555	1	hypothetical protein	
+324695	343644	18949	Predicted by at least one method			NCJPFIPA_03259	328566	329981	1	hypothetical protein	
+324695	343644	18949	Predicted by at least one method			NCJPFIPA_03258	329981	331810	1	hypothetical protein	
+324695	343644	18949	Predicted by at least one method			NCJPFIPA_03257	331828	332157	-1	hypothetical protein	
+324695	343644	18949	Predicted by at least one method			NCJPFIPA_03256	332188	332553	1	hypothetical protein	
+324695	343644	18949	Predicted by at least one method			NCJPFIPA_03255	332846	333097	-1	hypothetical protein	
+324695	343644	18949	Predicted by at least one method			NCJPFIPA_03254	333125	333349	1	hypothetical protein	
+324695	343644	18949	Predicted by at least one method			NCJPFIPA_03253	333418	334320	1	hypothetical protein	
+324695	343644	18949	Predicted by at least one method			NCJPFIPA_03252	334531	336498	1	hypothetical protein	
+324695	343644	18949	Predicted by at least one method			NCJPFIPA_03251	336534	338456	-1	hypothetical protein	
+324695	343644	18949	Predicted by at least one method		ddrA_2	NCJPFIPA_01587	340927	341271	1	Diol dehydratase-reactivating factor alpha subunit	
+324695	343644	18949	Predicted by at least one method		ddrA_1	NCJPFIPA_01586	341216	341632	1	Diol dehydratase-reactivating factor alpha subunit	
+324695	343644	18949	Predicted by at least one method			NCJPFIPA_01585	341766	342065	1	hypothetical protein	
+324695	343644	18949	Predicted by at least one method		ynfM_2	NCJPFIPA_01584	342412	343644	1	Inner membrane transport protein YnfM	
+355411	362703	7292	Predicted by at least one method		sfaA	NCJPFIPA_01571	355411	355947	-1	S-fimbrial protein subunit SfaA	
+355411	362703	7292	Predicted by at least one method			NCJPFIPA_01570	356611	357345	1	hypothetical protein	
+355411	362703	7292	Predicted by at least one method			NCJPFIPA_01569	357318	357818	1	hypothetical protein	
+355411	362703	7292	Predicted by at least one method		pdeN_1	NCJPFIPA_01568	358118	359692	1	putative cyclic di-GMP phosphodiesterase PdeN	
+355411	362703	7292	Predicted by at least one method			NCJPFIPA_01567	359792	360535	1	hypothetical protein	
+355411	362703	7292	Predicted by at least one method			NCJPFIPA_01566	360508	360996	1	hypothetical protein	
+355411	362703	7292	Predicted by at least one method		ail_3	NCJPFIPA_01565	361398	361595	1	Attachment invasion locus protein	
+355411	362703	7292	Predicted by at least one method		ompX_1	NCJPFIPA_01564	361589	361921	1	Outer membrane protein X	
+355411	362703	7292	Predicted by at least one method			NCJPFIPA_01563	362179	362703	1	hypothetical protein	
+582496	591116	8620	Predicted by at least one method			NCJPFIPA_01361	582496	583218	-1	hypothetical protein	
+582496	591116	8620	Predicted by at least one method			NCJPFIPA_01360	583237	583545	-1	hypothetical protein	
+582496	591116	8620	Predicted by at least one method			NCJPFIPA_01359	583710	584306	-1	hypothetical protein	
+582496	591116	8620	Predicted by at least one method			NCJPFIPA_01357	584754	585026	-1	hypothetical protein	
+582496	591116	8620	Predicted by at least one method			NCJPFIPA_01356	585203	585421	-1	hypothetical protein	
+582496	591116	8620	Predicted by at least one method			NCJPFIPA_01355	585593	585751	1	hypothetical protein	
+582496	591116	8620	Predicted by at least one method			NCJPFIPA_01354	585808	587448	-1	hypothetical protein	
+582496	591116	8620	Predicted by at least one method		yfdH_1	NCJPFIPA_01353	587441	588367	-1	Prophage bactoprenol glucosyl transferase	
+582496	591116	8620	Predicted by at least one method		yfdG	NCJPFIPA_01352	588364	588726	-1	Prophage bactoprenol-linked glucose translocase	
+582496	591116	8620	Predicted by at least one method		cusS	NCJPFIPA_01351	589594	589923	-1	Sensor histidine kinase CusS	
+582496	591116	8620	Predicted by at least one method		rclR	NCJPFIPA_01350	590262	591116	-1	RCS-specific HTH-type transcriptional activator RclR	
+583237	588726	5489	Predicted by at least one method			NCJPFIPA_01360	583237	583545	-1	hypothetical protein	
+583237	588726	5489	Predicted by at least one method			NCJPFIPA_01359	583710	584306	-1	hypothetical protein	
+583237	588726	5489	Predicted by at least one method			NCJPFIPA_01357	584754	585026	-1	hypothetical protein	
+583237	588726	5489	Predicted by at least one method			NCJPFIPA_01356	585203	585421	-1	hypothetical protein	
+583237	588726	5489	Predicted by at least one method			NCJPFIPA_01355	585593	585751	1	hypothetical protein	
+583237	588726	5489	Predicted by at least one method			NCJPFIPA_01354	585808	587448	-1	hypothetical protein	
+583237	588726	5489	Predicted by at least one method		yfdH_1	NCJPFIPA_01353	587441	588367	-1	Prophage bactoprenol glucosyl transferase	
+583237	588726	5489	Predicted by at least one method		yfdG	NCJPFIPA_01352	588364	588726	-1	Prophage bactoprenol-linked glucose translocase	
+753392	765640	12248	Predicted by at least one method			NCJPFIPA_03023	753392	753958	1	ISKra4 family transposase ISCep1	
+753392	765640	12248	Predicted by at least one method			NCJPFIPA_03022	754532	754753	1	hypothetical protein	
+753392	765640	12248	Predicted by at least one method			NCJPFIPA_03021	754755	755495	1	hypothetical protein	
+753392	765640	12248	Predicted by at least one method		rfbD_2	NCJPFIPA_03020	755781	756932	1	UDP-galactopyranose mutase	
+753392	765640	12248	Predicted by at least one method			NCJPFIPA_03019	756932	757825	1	hypothetical protein	
+753392	765640	12248	Predicted by at least one method		pglA	NCJPFIPA_03018	757838	758971	1	N, N'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1,3-N-acetylgalactosaminyltransferase	
+753392	765640	12248	Predicted by at least one method			NCJPFIPA_03017	759100	759870	1	hypothetical protein	
+753392	765640	12248	Predicted by at least one method		tagH	NCJPFIPA_03016	759874	760584	1	Teichoic acids export ATP-binding protein TagH	
+753392	765640	12248	Predicted by at least one method			NCJPFIPA_03015	760678	762456	1	hypothetical protein	
+753392	765640	12248	Predicted by at least one method			NCJPFIPA_03014	762649	763482	1	hypothetical protein	
+753392	765640	12248	Predicted by at least one method			NCJPFIPA_03013	763486	765435	1	hypothetical protein	
+753392	765640	12248	Predicted by at least one method			NCJPFIPA_03012	765503	765640	1	hypothetical protein	
+797130	804062	6932	Predicted by at least one method		fumB_2	NCJPFIPA_04475	797130	797675	-1	Fumarate hydratase class I, anaerobic	
+797130	804062	6932	Predicted by at least one method		ttdA_2	NCJPFIPA_04474	797690	798535	-1	L(+)-tartrate dehydratase subunit alpha	
+797130	804062	6932	Predicted by at least one method		cynR	NCJPFIPA_04473	798665	799555	1	HTH-type transcriptional regulator CynR	
+797130	804062	6932	Predicted by at least one method		yjiE_2	NCJPFIPA_04472	799556	800482	-1	HTH-type transcriptional regulator YjiE	
+797130	804062	6932	Predicted by at least one method			NCJPFIPA_04471	800762	802030	1	hypothetical protein	
+797130	804062	6932	Predicted by at least one method		oadG_2	NCJPFIPA_04470	802080	802325	1	Oxaloacetate decarboxylase gamma chain	
+797130	804062	6932	Predicted by at least one method			NCJPFIPA_04469	802272	802790	-1	hypothetical protein	
+797130	804062	6932	Predicted by at least one method		oadB_2	NCJPFIPA_02843	803916	804062	1	Oxaloacetate decarboxylase beta chain	
+897025	906097	9072	Predicted by at least one method			NCJPFIPA_02929	897025	897540	1	hypothetical protein	
+897025	906097	9072	Predicted by at least one method		etfB	NCJPFIPA_02930	897563	898312	1	Electron transfer flavoprotein subunit beta	
+897025	906097	9072	Predicted by at least one method		etfA	NCJPFIPA_02931	898323	899270	1	Electron transfer flavoprotein subunit alpha	
+897025	906097	9072	Predicted by at least one method			NCJPFIPA_02932	899303	899500	1	hypothetical protein	
+897025	906097	9072	Predicted by at least one method		mmgC	NCJPFIPA_02933	899564	900727	1	Acyl-CoA dehydrogenase	
+897025	906097	9072	Predicted by at least one method			NCJPFIPA_02934	900752	900943	1	hypothetical protein	
+897025	906097	9072	Predicted by at least one method			NCJPFIPA_02935	901176	902861	1	Electron transfer flavoprotein-ubiquinone oxidoreductase	
+897025	906097	9072	Predicted by at least one method		cysL	NCJPFIPA_02936	902867	903757	-1	HTH-type transcriptional regulator CysL	
+897025	906097	9072	Predicted by at least one method			NCJPFIPA_02937	904022	904447	-1	hypothetical protein	
+897025	906097	9072	Predicted by at least one method			NCJPFIPA_02938	904794	905474	1	hypothetical protein	
+897025	906097	9072	Predicted by at least one method		gstB	NCJPFIPA_02939	905471	906097	-1	Glutathione S-transferase GstB	
+897025	904447	7422	Predicted by at least one method			NCJPFIPA_02929	897025	897540	1	hypothetical protein	
+897025	904447	7422	Predicted by at least one method		etfB	NCJPFIPA_02930	897563	898312	1	Electron transfer flavoprotein subunit beta	
+897025	904447	7422	Predicted by at least one method		etfA	NCJPFIPA_02931	898323	899270	1	Electron transfer flavoprotein subunit alpha	
+897025	904447	7422	Predicted by at least one method			NCJPFIPA_02932	899303	899500	1	hypothetical protein	
+897025	904447	7422	Predicted by at least one method		mmgC	NCJPFIPA_02933	899564	900727	1	Acyl-CoA dehydrogenase	
+897025	904447	7422	Predicted by at least one method			NCJPFIPA_02934	900752	900943	1	hypothetical protein	
+897025	904447	7422	Predicted by at least one method			NCJPFIPA_02935	901176	902861	1	Electron transfer flavoprotein-ubiquinone oxidoreductase	
+897025	904447	7422	Predicted by at least one method		cysL	NCJPFIPA_02936	902867	903757	-1	HTH-type transcriptional regulator CysL	
+897025	904447	7422	Predicted by at least one method			NCJPFIPA_02937	904022	904447	-1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method		alsT_2	NCJPFIPA_04073	1024601	1026037	1	Amino-acid carrier protein AlsT	
+1024601	1073156	48555	Predicted by at least one method		pncB	NCJPFIPA_04074	1026115	1027317	-1	Nicotinate phosphoribosyltransferase	
+1024601	1073156	48555	Predicted by at least one method		intQ	NCJPFIPA_04075	1027512	1028804	-1	Putative defective protein IntQ	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04076	1028849	1029097	-1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04569	1030476	1030886	-1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04570	1031006	1031245	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04542	1032342	1032662	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04543	1032753	1033730	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method		dnaC_2	NCJPFIPA_04544	1033733	1034482	1	DNA replication protein DnaC	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04545	1034493	1034840	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04526	1036324	1036593	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method		dinI_4	NCJPFIPA_04525	1036885	1037118	1	DNA damage-inducible protein I	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04524	1037534	1038136	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04523	1038136	1038342	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04522	1038345	1038956	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method		dnaJ_2	NCJPFIPA_04521	1039089	1039886	1	Chaperone protein DnaJ	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04520	1040052	1040270	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04519	1040444	1040569	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04518	1040705	1041154	-1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04517	1041371	1041508	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04564	1042694	1042966	-1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04565	1043285	1043620	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04566	1043604	1044056	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04456	1045292	1045630	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04457	1045838	1046371	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04458	1046331	1048466	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04459	1048463	1048669	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04460	1048666	1050213	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method		clpP_2	NCJPFIPA_04461	1050164	1052218	1	ATP-dependent Clp protease proteolytic subunit	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04462	1052309	1052632	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04463	1052658	1052924	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04464	1052905	1053471	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04465	1053468	1053869	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04466	1053881	1054630	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04467	1054676	1055074	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04468	1055149	1055400	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04488	1057707	1058807	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04487	1058804	1059136	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method		ail_4	NCJPFIPA_04486	1059235	1059732	1	Attachment invasion locus protein	
+1024601	1073156	48555	Predicted by at least one method		sodC1	NCJPFIPA_04485	1059849	1060382	-1	Superoxide dismutase [Cu-Zn] 1	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04484	1060472	1061167	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04483	1061177	1061914	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04482	1061974	1062516	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04481	1063326	1063835	-1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_04554	1066347	1067624	1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method		tfaE	NCJPFIPA_04555	1067624	1068205	1	Prophage tail fiber assembly protein TfaE	
+1024601	1073156	48555	Predicted by at least one method		sseI	NCJPFIPA_03569	1069552	1070319	1	Secreted effector protein SseI	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_03570	1070587	1070835	1	IS66 family transposase ISSfl3	
+1024601	1073156	48555	Predicted by at least one method		yedK	NCJPFIPA_03571	1070967	1071593	-1	SOS response-associated protein YedK	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_03572	1071945	1072631	-1	hypothetical protein	
+1024601	1073156	48555	Predicted by at least one method			NCJPFIPA_03573	1072902	1073156	-1	hypothetical protein	
+1040052	1046371	6319	Predicted by at least one method			NCJPFIPA_04520	1040052	1040270	1	hypothetical protein	
+1040052	1046371	6319	Predicted by at least one method			NCJPFIPA_04519	1040444	1040569	1	hypothetical protein	
+1040052	1046371	6319	Predicted by at least one method			NCJPFIPA_04518	1040705	1041154	-1	hypothetical protein	
+1040052	1046371	6319	Predicted by at least one method			NCJPFIPA_04517	1041371	1041508	1	hypothetical protein	
+1040052	1046371	6319	Predicted by at least one method			NCJPFIPA_04564	1042694	1042966	-1	hypothetical protein	
+1040052	1046371	6319	Predicted by at least one method			NCJPFIPA_04565	1043285	1043620	1	hypothetical protein	
+1040052	1046371	6319	Predicted by at least one method			NCJPFIPA_04566	1043604	1044056	1	hypothetical protein	
+1040052	1046371	6319	Predicted by at least one method			NCJPFIPA_04456	1045292	1045630	1	hypothetical protein	
+1040052	1046371	6319	Predicted by at least one method			NCJPFIPA_04457	1045838	1046371	1	hypothetical protein	
+1040052	1046371	6319	Predicted by at least one method			NCJPFIPA_04458	1046331	1048466	1	hypothetical protein	
+1067624	1073156	5532	Predicted by at least one method		tfaE	NCJPFIPA_04555	1067624	1068205	1	Prophage tail fiber assembly protein TfaE	
+1067624	1073156	5532	Predicted by at least one method		sseI	NCJPFIPA_03569	1069552	1070319	1	Secreted effector protein SseI	
+1067624	1073156	5532	Predicted by at least one method			NCJPFIPA_03570	1070587	1070835	1	IS66 family transposase ISSfl3	
+1067624	1073156	5532	Predicted by at least one method		yedK	NCJPFIPA_03571	1070967	1071593	-1	SOS response-associated protein YedK	
+1067624	1073156	5532	Predicted by at least one method			NCJPFIPA_03572	1071945	1072631	-1	hypothetical protein	
+1067624	1073156	5532	Predicted by at least one method			NCJPFIPA_03573	1072902	1073156	-1	hypothetical protein	
+1147654	1152301	4647	Predicted by at least one method		nanE	NCJPFIPA_03643	1147654	1148334	-1	Putative N-acetylmannosamine-6-phosphate 2-epimerase	
+1147654	1152301	4647	Predicted by at least one method		nanM	NCJPFIPA_03644	1148852	1150000	1	N-acetylneuraminate epimerase	
+1147654	1152301	4647	Predicted by at least one method		kdgM_2	NCJPFIPA_03645	1150046	1150738	1	Oligogalacturonate-specific porin KdgM	
+1147654	1152301	4647	Predicted by at least one method		yjhB_2	NCJPFIPA_03646	1151021	1152301	1	Putative metabolite transport protein YjhB	
+1257331	1267231	9900	Predicted by at least one method			NCJPFIPA_00012	1257331	1258215	1	hypothetical protein	
+1257331	1267231	9900	Predicted by at least one method			NCJPFIPA_00013	1258238	1258456	1	hypothetical protein	
+1257331	1267231	9900	Predicted by at least one method			NCJPFIPA_00014	1258891	1259115	-1	hypothetical protein	
+1257331	1267231	9900	Predicted by at least one method			NCJPFIPA_00015	1259437	1260225	-1	hypothetical protein	
+1257331	1267231	9900	Predicted by at least one method		dinI_1	NCJPFIPA_00016	1260714	1260953	-1	DNA damage-inducible protein I	
+1257331	1267231	9900	Predicted by at least one method			NCJPFIPA_00017	1261144	1261665	-1	hypothetical protein	
+1257331	1267231	9900	Predicted by at least one method			NCJPFIPA_00018	1262424	1262687	-1	hypothetical protein	
+1257331	1267231	9900	Predicted by at least one method		ail_1	NCJPFIPA_00019	1263499	1264056	1	Attachment invasion locus protein	
+1257331	1267231	9900	Predicted by at least one method			NCJPFIPA_00021	1265293	1265637	-1	hypothetical protein	
+1257331	1267231	9900	Predicted by at least one method			NCJPFIPA_00022	1266272	1266445	-1	hypothetical protein	
+1257331	1267231	9900	Predicted by at least one method		ibpA_1	NCJPFIPA_00023	1266764	1267231	1	Small heat shock protein IbpA	
+1407414	1424918	17504	Predicted by at least one method		nreC	NCJPFIPA_00164	1407414	1408052	-1	Oxygen regulatory protein NreC	
+1407414	1424918	17504	Predicted by at least one method		rcsC_1	NCJPFIPA_00165	1408083	1410845	-1	Sensor histidine kinase RcsC	
+1407414	1424918	17504	Predicted by at least one method		spiC	NCJPFIPA_00166	1411264	1411647	1	Salmonella pathogenicity island 2 protein C	
+1407414	1424918	17504	Predicted by at least one method		sctC_1	NCJPFIPA_00167	1411649	1413142	1	Type 3 secretion system secretin	
+1407414	1424918	17504	Predicted by at least one method			NCJPFIPA_00168	1413123	1414334	1	hypothetical protein	
+1407414	1424918	17504	Predicted by at least one method			NCJPFIPA_00169	1414342	1414584	1	hypothetical protein	
+1407414	1424918	17504	Predicted by at least one method		sseA_1	NCJPFIPA_00170	1414851	1415174	1	Type III secretion system chaperone SseA	
+1407414	1424918	17504	Predicted by at least one method		sseB	NCJPFIPA_00171	1415181	1415771	1	Secreted effector protein SseB	
+1407414	1424918	17504	Predicted by at least one method			NCJPFIPA_00172	1415768	1416241	1	hypothetical protein	
+1407414	1424918	17504	Predicted by at least one method		sseC	NCJPFIPA_00173	1416244	1417698	1	Secreted effector protein SseC	
+1407414	1424918	17504	Predicted by at least one method		sseD	NCJPFIPA_00174	1417714	1418301	1	Secreted effector protein SseD	
+1407414	1424918	17504	Predicted by at least one method			NCJPFIPA_00175	1418304	1418720	1	hypothetical protein	
+1407414	1424918	17504	Predicted by at least one method		ipgC	NCJPFIPA_00176	1418778	1419206	1	Chaperone protein IpgC	
+1407414	1424918	17504	Predicted by at least one method			NCJPFIPA_00177	1419222	1420004	1	hypothetical protein	
+1407414	1424918	17504	Predicted by at least one method			NCJPFIPA_00178	1420001	1420690	1	hypothetical protein	
+1407414	1424918	17504	Predicted by at least one method			NCJPFIPA_00179	1420784	1420999	1	hypothetical protein	
+1407414	1424918	17504	Predicted by at least one method			NCJPFIPA_00180	1420977	1421267	1	hypothetical protein	
+1407414	1424918	17504	Predicted by at least one method			NCJPFIPA_00181	1421264	1421527	1	hypothetical protein	
+1407414	1424918	17504	Predicted by at least one method		yscJ	NCJPFIPA_00182	1421524	1422273	1	Yop proteins translocation lipoprotein J	
+1407414	1424918	17504	Predicted by at least one method			NCJPFIPA_00183	1422588	1422839	1	hypothetical protein	
+1407414	1424918	17504	Predicted by at least one method			NCJPFIPA_00184	1422836	1423510	1	hypothetical protein	
+1407414	1424918	17504	Predicted by at least one method			NCJPFIPA_00185	1423500	1424492	1	hypothetical protein	
+1407414	1424918	17504	Predicted by at least one method			NCJPFIPA_00186	1424550	1424918	1	hypothetical protein	
+1407414	1424918	17504	Predicted by at least one method		ssaV	NCJPFIPA_00187	1424903	1426948	1	Secretion system apparatus protein SsaV	
+1428188	1432736	4548	Predicted by at least one method		ssaN	NCJPFIPA_00188	1426938	1428239	1	putative secretion system apparatus ATP synthase SsaN	
+1428188	1432736	4548	Predicted by at least one method			NCJPFIPA_00189	1428188	1428619	1	hypothetical protein	
+1428188	1432736	4548	Predicted by at least one method			NCJPFIPA_00190	1428600	1428974	1	hypothetical protein	
+1428188	1432736	4548	Predicted by at least one method			NCJPFIPA_00191	1428955	1429923	1	hypothetical protein	
+1428188	1432736	4548	Predicted by at least one method		spaP_1	NCJPFIPA_00192	1429991	1430638	1	Surface presentation of antigens protein SpaP	
+1428188	1432736	4548	Predicted by at least one method		spaQ_1	NCJPFIPA_00193	1430635	1430901	1	Surface presentation of antigens protein SpaQ	
+1428188	1432736	4548	Predicted by at least one method		spaR_1	NCJPFIPA_00194	1430902	1431681	1	Surface presentation of antigens protein SpaR	
+1428188	1432736	4548	Predicted by at least one method		yscU	NCJPFIPA_00195	1431678	1432736	1	Yop proteins translocation protein U	
+1556044	1563038	6994	Predicted by at least one method		queA_1	NCJPFIPA_00320	1556044	1557123	1	S-adenosylmethionine:tRNA ribosyltransferase-isomerase	
+1556044	1563038	6994	Predicted by at least one method		yjgH	NCJPFIPA_00321	1557175	1557564	-1	RutC family protein YjgH	
+1556044	1563038	6994	Predicted by at least one method		relE_1	NCJPFIPA_00322	1557735	1558019	-1	mRNA interferase toxin RelE	
+1556044	1563038	6994	Predicted by at least one method			NCJPFIPA_00323	1558009	1558257	-1	hypothetical protein	
+1556044	1563038	6994	Predicted by at least one method			NCJPFIPA_00324	1558614	1558946	1	hypothetical protein	
+1556044	1563038	6994	Predicted by at least one method			NCJPFIPA_00325	1559068	1559997	1	hypothetical protein	
+1556044	1563038	6994	Predicted by at least one method			NCJPFIPA_00326	1560405	1560758	-1	ISNCY family transposase ISBcen27	
+1556044	1563038	6994	Predicted by at least one method			NCJPFIPA_00327	1561096	1561305	-1	hypothetical protein	
+1556044	1563038	6994	Predicted by at least one method			NCJPFIPA_00328	1561575	1563038	-1	hypothetical protein	
+1558614	1563038	4424	Predicted by at least one method			NCJPFIPA_00324	1558614	1558946	1	hypothetical protein	
+1558614	1563038	4424	Predicted by at least one method			NCJPFIPA_00325	1559068	1559997	1	hypothetical protein	
+1558614	1563038	4424	Predicted by at least one method			NCJPFIPA_00326	1560405	1560758	-1	ISNCY family transposase ISBcen27	
+1558614	1563038	4424	Predicted by at least one method			NCJPFIPA_00327	1561096	1561305	-1	hypothetical protein	
+1558614	1563038	4424	Predicted by at least one method			NCJPFIPA_00328	1561575	1563038	-1	hypothetical protein	
+1650514	1657392	6878	Predicted by at least one method			NCJPFIPA_00403	1650514	1650639	-1	hypothetical protein	
+1650514	1657392	6878	Predicted by at least one method			NCJPFIPA_00404	1650804	1651520	-1	hypothetical protein	
+1650514	1657392	6878	Predicted by at least one method		sseJ	NCJPFIPA_00405	1651946	1653172	1	Secreted effector protein SseJ	
+1650514	1657392	6878	Predicted by at least one method			NCJPFIPA_00406	1653293	1653637	-1	hypothetical protein	
+1650514	1657392	6878	Predicted by at least one method		fliY_1	NCJPFIPA_00407	1654544	1655305	1	L-cystine-binding protein FliY	
+1650514	1657392	6878	Predicted by at least one method		yecS_1	NCJPFIPA_00408	1655327	1655959	1	L-cystine transport system permease protein YecS	
+1650514	1657392	6878	Predicted by at least one method		glnQ_1	NCJPFIPA_00409	1655984	1656715	1	Glutamine transport ATP-binding protein GlnQ	
+1650514	1657392	6878	Predicted by at least one method		yecS_2	NCJPFIPA_00410	1656712	1657392	1	L-cystine transport system permease protein YecS	
+1886320	1903287	16967	Predicted by at least one method			NCJPFIPA_04377	1886114	1886347	-1	hypothetical protein	
+1886320	1903287	16967	Predicted by at least one method			NCJPFIPA_04376	1886320	1886484	-1	hypothetical protein	
+1886320	1903287	16967	Predicted by at least one method		sopE2	NCJPFIPA_04375	1886769	1887491	-1	Guanine nucleotide exchange factor sopE2	
+1886320	1903287	16967	Predicted by at least one method		ydfO	NCJPFIPA_04374	1888175	1888570	1	putative protein YdfO	
+1886320	1903287	16967	Predicted by at least one method			NCJPFIPA_04373	1888900	1889376	1	hypothetical protein	
+1886320	1903287	16967	Predicted by at least one method			NCJPFIPA_04372	1889764	1890183	-1	hypothetical protein	
+1886320	1903287	16967	Predicted by at least one method			NCJPFIPA_04371	1891465	1891611	-1	hypothetical protein	
+1886320	1903287	16967	Predicted by at least one method			NCJPFIPA_04370	1891611	1892468	-1	IS256 family transposase IS285	
+1886320	1903287	16967	Predicted by at least one method			NCJPFIPA_04369	1892592	1892960	1	hypothetical protein	
+1886320	1903287	16967	Predicted by at least one method		yedA_2	NCJPFIPA_04368	1894264	1895178	1	putative inner membrane transporter YedA	
+1886320	1903287	16967	Predicted by at least one method			NCJPFIPA_04367	1895311	1895469	1	hypothetical protein	
+1886320	1903287	16967	Predicted by at least one method		dsbB_2	NCJPFIPA_04366	1895479	1896093	1	Disulfide bond formation protein B	
+1886320	1903287	16967	Predicted by at least one method			NCJPFIPA_04365	1896542	1896664	-1	hypothetical protein	
+1886320	1903287	16967	Predicted by at least one method			NCJPFIPA_04364	1897265	1897423	1	hypothetical protein	
+1886320	1903287	16967	Predicted by at least one method			NCJPFIPA_03648	1899877	1900140	-1	hypothetical protein	
+1886320	1903287	16967	Predicted by at least one method			NCJPFIPA_03649	1900448	1900615	1	hypothetical protein	
+1886320	1903287	16967	Predicted by at least one method			NCJPFIPA_03650	1900872	1901405	-1	hypothetical protein	
+1886320	1903287	16967	Predicted by at least one method			NCJPFIPA_03651	1901459	1901689	-1	hypothetical protein	
+1886320	1903287	16967	Predicted by at least one method			NCJPFIPA_03652	1901720	1902373	1	hypothetical protein	
+1886320	1903287	16967	Predicted by at least one method			NCJPFIPA_03653	1902433	1903287	1	hypothetical protein	
+1886320	1896093	9773	Predicted by at least one method			NCJPFIPA_04377	1886114	1886347	-1	hypothetical protein	
+1886320	1896093	9773	Predicted by at least one method			NCJPFIPA_04376	1886320	1886484	-1	hypothetical protein	
+1886320	1896093	9773	Predicted by at least one method		sopE2	NCJPFIPA_04375	1886769	1887491	-1	Guanine nucleotide exchange factor sopE2	
+1886320	1896093	9773	Predicted by at least one method		ydfO	NCJPFIPA_04374	1888175	1888570	1	putative protein YdfO	
+1886320	1896093	9773	Predicted by at least one method			NCJPFIPA_04373	1888900	1889376	1	hypothetical protein	
+1886320	1896093	9773	Predicted by at least one method			NCJPFIPA_04372	1889764	1890183	-1	hypothetical protein	
+1886320	1896093	9773	Predicted by at least one method			NCJPFIPA_04371	1891465	1891611	-1	hypothetical protein	
+1886320	1896093	9773	Predicted by at least one method			NCJPFIPA_04370	1891611	1892468	-1	IS256 family transposase IS285	
+1886320	1896093	9773	Predicted by at least one method			NCJPFIPA_04369	1892592	1892960	1	hypothetical protein	
+1886320	1896093	9773	Predicted by at least one method		yedA_2	NCJPFIPA_04368	1894264	1895178	1	putative inner membrane transporter YedA	
+1886320	1896093	9773	Predicted by at least one method			NCJPFIPA_04367	1895311	1895469	1	hypothetical protein	
+1886320	1896093	9773	Predicted by at least one method		dsbB_2	NCJPFIPA_04366	1895479	1896093	1	Disulfide bond formation protein B	
+2016962	2021691	4729	Predicted by at least one method		umuD	NCJPFIPA_04208	2016962	2017381	-1	Protein UmuD	
+2016962	2021691	4729	Predicted by at least one method			NCJPFIPA_04209	2018733	2019740	1	hypothetical protein	
+2016962	2021691	4729	Predicted by at least one method			NCJPFIPA_04210	2019741	2019890	-1	hypothetical protein	
+2016962	2021691	4729	Predicted by at least one method			NCJPFIPA_04211	2020025	2020594	-1	hypothetical protein	
+2016962	2021691	4729	Predicted by at least one method			NCJPFIPA_04212	2020594	2021691	-1	hypothetical protein	
+2047607	2051881	4274	Predicted by at least one method			NCJPFIPA_01591	2047607	2048089	-1	hypothetical protein	
+2047607	2051881	4274	Predicted by at least one method			NCJPFIPA_01592	2048091	2048909	-1	hypothetical protein	
+2047607	2051881	4274	Predicted by at least one method			NCJPFIPA_01593	2048906	2049130	-1	hypothetical protein	
+2047607	2051881	4274	Predicted by at least one method			NCJPFIPA_01594	2049127	2050284	-1	hypothetical protein	
+2047607	2051881	4274	Predicted by at least one method			NCJPFIPA_01595	2050281	2050835	-1	hypothetical protein	
+2047607	2051881	4274	Predicted by at least one method			NCJPFIPA_01596	2050864	2051088	-1	hypothetical protein	
+2047607	2051881	4274	Predicted by at least one method			NCJPFIPA_01597	2051186	2051881	1	putative HTH-type transcriptional regulator	
+2137585	2147552	9967	Predicted by at least one method			NCJPFIPA_01689	2137585	2139015	-1	hypothetical protein	
+2137585	2147552	9967	Predicted by at least one method		glmM_2	NCJPFIPA_01690	2139087	2140520	-1	Phosphoglucosamine mutase	
+2137585	2147552	9967	Predicted by at least one method		rfbM	NCJPFIPA_01691	2140507	2141946	-1	Mannose-1-phosphate guanylyltransferase RfbM	
+2137585	2147552	9967	Predicted by at least one method			NCJPFIPA_01692	2141947	2142891	-1	hypothetical protein	
+2137585	2147552	9967	Predicted by at least one method		mshA_1	NCJPFIPA_01693	2142892	2143953	-1	D-inositol-3-phosphate glycosyltransferase	
+2137585	2147552	9967	Predicted by at least one method		rfbV	NCJPFIPA_01694	2144273	2145274	-1	Abequosyltransferase RfbV	
+2137585	2147552	9967	Predicted by at least one method			NCJPFIPA_01695	2145279	2146184	-1	hypothetical protein	
+2137585	2147552	9967	Predicted by at least one method		rfbJ	NCJPFIPA_01696	2146653	2147552	-1	CDP-abequose synthase	
+2307616	2312005	4389	Predicted by at least one method			NCJPFIPA_01838	2307616	2308287	-1	hypothetical protein	
+2307616	2312005	4389	Predicted by at least one method			NCJPFIPA_01839	2308774	2310603	1	hypothetical protein	
+2307616	2312005	4389	Predicted by at least one method			NCJPFIPA_01840	2310657	2311100	-1	hypothetical protein	
+2307616	2312005	4389	Predicted by at least one method			NCJPFIPA_01841	2311478	2312005	-1	hypothetical protein	
+2595897	2615045	19148	Predicted by at least one method			NCJPFIPA_02669	2595897	2596211	1	hypothetical protein	
+2595897	2615045	19148	Predicted by at least one method			NCJPFIPA_02668	2596231	2596521	-1	hypothetical protein	
+2595897	2615045	19148	Predicted by at least one method		guaA	NCJPFIPA_02667	2596744	2598321	-1	GMP synthase [glutamine-hydrolyzing]	
+2595897	2615045	19148	Predicted by at least one method		guaB	NCJPFIPA_02666	2598391	2599857	-1	Inosine-5'-monophosphate dehydrogenase	
+2595897	2615045	19148	Predicted by at least one method		xseA	NCJPFIPA_02665	2600018	2601367	1	Exodeoxyribonuclease 7 large subunit	
+2595897	2615045	19148	Predicted by at least one method			NCJPFIPA_02664	2601529	2607078	-1	hypothetical protein	
+2595897	2615045	19148	Predicted by at least one method			NCJPFIPA_02663	2607739	2609205	-1	hypothetical protein	
+2595897	2615045	19148	Predicted by at least one method			NCJPFIPA_02662	2609202	2615045	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method		sarA	NCJPFIPA_02590	2704720	2705193	1	Salmonella anti-inflammatory response activator	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_02589	2705308	2705493	1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method		ymdB_2	NCJPFIPA_04547	2709351	2710175	-1	O-acetyl-ADP-ribose deacetylase	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04546	2710172	2711383	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04551	2712703	2713398	1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04552	2713675	2713917	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04553	2713956	2714570	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04516	2716623	2717819	1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04515	2718457	2718963	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04514	2719002	2719739	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04513	2719746	2720444	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04512	2720454	2720783	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04511	2720786	2721268	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04439	2725452	2725766	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04440	2725787	2726182	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04441	2726233	2726976	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04442	2726987	2727388	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04443	2727497	2728627	1	IS200/IS605 family transposase ISEc42	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04444	2728676	2729254	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04445	2729282	2729665	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04446	2729676	2730035	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04447	2730093	2731121	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04448	2731176	2731523	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04449	2731536	2733032	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04450	2733022	2734641	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04451	2734599	2734802	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04452	2734786	2736717	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method		nohA	NCJPFIPA_04453	2736689	2737234	-1	Prophage DNA-packing protein NohA	
+2704720	2742420	37700	Predicted by at least one method		pliG	NCJPFIPA_04454	2737521	2737922	1	Inhibitor of g-type lysozyme	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04455	2738158	2738469	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04502	2739519	2739860	1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04501	2740075	2740263	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04499	2740770	2741333	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04498	2741606	2742283	-1	hypothetical protein	
+2704720	2742420	37700	Predicted by at least one method		ylcG	NCJPFIPA_04497	2742280	2742420	-1	putative protein YlcG	
+2704720	2742420	37700	Predicted by at least one method			NCJPFIPA_04496	2742417	2743028	-1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method		grpE	NCJPFIPA_03825	2789335	2789925	-1	Protein GrpE	
+2789335	2847583	58248	Predicted by at least one method		nadK	NCJPFIPA_03826	2790048	2790926	1	NAD kinase	
+2789335	2847583	58248	Predicted by at least one method		recN	NCJPFIPA_03827	2791012	2792673	1	DNA repair protein RecN	
+2789335	2847583	58248	Predicted by at least one method		bamE	NCJPFIPA_03828	2792822	2793160	1	Outer membrane protein assembly factor BamE	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03829	2793326	2793616	-1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method		ratA	NCJPFIPA_03830	2793606	2794043	-1	Ribosome association toxin RatA	
+2789335	2847583	58248	Predicted by at least one method		smpB	NCJPFIPA_03831	2794187	2794714	1	SsrA-binding protein	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03832	2795328	2806802	1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method		bepC	NCJPFIPA_03833	2806867	2808276	1	Outer membrane efflux protein BepC	
+2789335	2847583	58248	Predicted by at least one method		apxIB	NCJPFIPA_03834	2808273	2810453	1	Toxin RTX-I translocation ATP-binding protein	
+2789335	2847583	58248	Predicted by at least one method		prsE_2	NCJPFIPA_03835	2810434	2811624	1	Type I secretion system membrane fusion protein PrsE	
+2789335	2847583	58248	Predicted by at least one method		intA_3	NCJPFIPA_03837	2812225	2813289	1	Prophage integrase IntA	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03838	2813472	2814110	1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03839	2814554	2815693	1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03840	2816028	2816840	-1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03841	2817306	2817521	1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03842	2817557	2819626	1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03843	2820129	2821412	1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03844	2821409	2822068	1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03845	2822429	2822719	-1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03846	2822880	2823164	1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method		srlA_2	NCJPFIPA_03847	2823277	2823798	1	PTS system glucitol/sorbitol-specific EIIC component	
+2789335	2847583	58248	Predicted by at least one method		srlB_2	NCJPFIPA_03848	2823795	2824169	1	PTS system glucitol/sorbitol-specific EIIA component	
+2789335	2847583	58248	Predicted by at least one method		srlE_2	NCJPFIPA_03849	2824166	2825146	1	PTS system glucitol/sorbitol-specific EIIB component	
+2789335	2847583	58248	Predicted by at least one method		iolG_3	NCJPFIPA_03850	2825157	2826170	1	Myo-inositol 2-dehydrogenase	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03851	2826516	2827667	1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method		hxlA	NCJPFIPA_03852	2827741	2828376	-1	3-hexulose-6-phosphate synthase	
+2789335	2847583	58248	Predicted by at least one method		hxlB	NCJPFIPA_03853	2828400	2828966	-1	3-hexulose-6-phosphate isomerase	
+2789335	2847583	58248	Predicted by at least one method		pgiA	NCJPFIPA_03854	2828963	2829805	-1	Glucose-6-phosphate isomerase	
+2789335	2847583	58248	Predicted by at least one method		ptsG_2	NCJPFIPA_03855	2829935	2831476	-1	PTS system glucose-specific EIICBA component	
+2789335	2847583	58248	Predicted by at least one method		sgrR_4	NCJPFIPA_03856	2831699	2833378	1	HTH-type transcriptional regulator SgrR	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03857	2833378	2833560	1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03858	2834495	2835370	1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03859	2835569	2837410	1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03860	2837670	2838992	-1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method		intA_4	NCJPFIPA_03861	2839531	2840127	1	Prophage integrase IntA	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03862	2840525	2840920	-1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03863	2841142	2841408	-1	IS3 family transposase IS1351	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03864	2841861	2842499	-1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03865	2842496	2844478	-1	hypothetical protein	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03866	2844757	2845056	1	IS3 family transposase ISSty2	
+2789335	2847583	58248	Predicted by at least one method			NCJPFIPA_03979	2847113	2847583	-1	hypothetical protein	
+2820129	2824169	4040	Predicted by at least one method			NCJPFIPA_03843	2820129	2821412	1	hypothetical protein	
+2820129	2824169	4040	Predicted by at least one method			NCJPFIPA_03844	2821409	2822068	1	hypothetical protein	
+2820129	2824169	4040	Predicted by at least one method			NCJPFIPA_03845	2822429	2822719	-1	hypothetical protein	
+2820129	2824169	4040	Predicted by at least one method			NCJPFIPA_03846	2822880	2823164	1	hypothetical protein	
+2820129	2824169	4040	Predicted by at least one method		srlA_2	NCJPFIPA_03847	2823277	2823798	1	PTS system glucitol/sorbitol-specific EIIC component	
+2820129	2824169	4040	Predicted by at least one method		srlB_2	NCJPFIPA_03848	2823795	2824169	1	PTS system glucitol/sorbitol-specific EIIA component	
+2820129	2824169	4040	Predicted by at least one method		srlE_2	NCJPFIPA_03849	2824166	2825146	1	PTS system glucitol/sorbitol-specific EIIB component	
+2835569	2844478	8909	Predicted by at least one method			NCJPFIPA_03859	2835569	2837410	1	hypothetical protein	
+2835569	2844478	8909	Predicted by at least one method			NCJPFIPA_03860	2837670	2838992	-1	hypothetical protein	
+2835569	2844478	8909	Predicted by at least one method		intA_4	NCJPFIPA_03861	2839531	2840127	1	Prophage integrase IntA	
+2835569	2844478	8909	Predicted by at least one method			NCJPFIPA_03862	2840525	2840920	-1	hypothetical protein	
+2835569	2844478	8909	Predicted by at least one method			NCJPFIPA_03863	2841142	2841408	-1	IS3 family transposase IS1351	
+2835569	2844478	8909	Predicted by at least one method			NCJPFIPA_03864	2841861	2842499	-1	hypothetical protein	
+2835569	2844478	8909	Predicted by at least one method			NCJPFIPA_03865	2842496	2844478	-1	hypothetical protein	
+2945056	2950161	5105	Predicted by at least one method		yopJ	NCJPFIPA_00961	2945056	2945922	-1	Effector protein YopJ	
+2945056	2950161	5105	Predicted by at least one method			NCJPFIPA_00960	2946125	2946880	-1	hypothetical protein	
+2945056	2950161	5105	Predicted by at least one method		rhaR_2	NCJPFIPA_00959	2947265	2948152	-1	HTH-type transcriptional activator RhaR	
+2945056	2950161	5105	Predicted by at least one method			NCJPFIPA_00958	2948497	2948949	-1	hypothetical protein	
+2945056	2950161	5105	Predicted by at least one method		orgB	NCJPFIPA_00957	2948946	2949626	-1	Oxygen-regulated invasion protein OrgB	
+2945056	2950161	5105	Predicted by at least one method		orgA	NCJPFIPA_00956	2949583	2950161	-1	Oxygen-regulated invasion protein OrgA	
+2945056	2950161	5105	Predicted by at least one method		prgK	NCJPFIPA_00955	2950154	2950912	-1	Lipoprotein PrgK	
+2979547	2984585	5038	Predicted by at least one method		invH	NCJPFIPA_00926	2979547	2979990	1	Type 3 secretion system pilotin	
+2979547	2984585	5038	Predicted by at least one method			NCJPFIPA_00925	2980421	2980870	1	hypothetical protein	
+2979547	2984585	5038	Predicted by at least one method			NCJPFIPA_00924	2980870	2981202	1	hypothetical protein	
+2979547	2984585	5038	Predicted by at least one method			NCJPFIPA_00923	2981475	2981801	-1	hypothetical protein	
+2979547	2984585	5038	Predicted by at least one method			NCJPFIPA_00922	2982499	2982780	1	hypothetical protein	
+2979547	2984585	5038	Predicted by at least one method			NCJPFIPA_00921	2982777	2983304	1	hypothetical protein	
+2979547	2984585	5038	Predicted by at least one method			NCJPFIPA_00920	2983377	2983553	-1	hypothetical protein	
+2979547	2984585	5038	Predicted by at least one method		pphB	NCJPFIPA_00919	2983929	2984585	1	Serine/threonine-protein phosphatase 2	
+3123994	3129452	5458	Predicted by at least one method		ybgD	NCJPFIPA_00797	3123994	3124578	-1	putative fimbrial-like protein YbgD	
+3123994	3129452	5458	Predicted by at least one method			NCJPFIPA_00796	3125297	3125929	-1	hypothetical protein	
+3123994	3129452	5458	Predicted by at least one method		ail_2	NCJPFIPA_00795	3125976	3126512	-1	Attachment invasion locus protein	
+3123994	3129452	5458	Predicted by at least one method		vapC	NCJPFIPA_00794	3127318	3127716	-1	tRNA(fMet)-specific endonuclease VapC	
+3123994	3129452	5458	Predicted by at least one method		vapB	NCJPFIPA_00793	3127716	3127943	-1	Antitoxin VapB	
+3123994	3129452	5458	Predicted by at least one method			NCJPFIPA_00792	3128111	3128371	1	hypothetical protein	
+3123994	3129452	5458	Predicted by at least one method			NCJPFIPA_00791	3128652	3129452	1	hypothetical protein	
+3208525	3213285	4760	Predicted by at least one method			NCJPFIPA_00711	3208525	3208905	-1	Virulence protein	
+3208525	3213285	4760	Predicted by at least one method			NCJPFIPA_00710	3208970	3210295	-1	Butyryl-CoA:acetate CoA-transferase	
+3208525	3213285	4760	Predicted by at least one method		mch	NCJPFIPA_00709	3210320	3210847	-1	Mesaconyl-CoA hydratase	
+3208525	3213285	4760	Predicted by at least one method		mcl1	NCJPFIPA_00708	3210871	3211713	-1	L-malyl-CoA/beta-methylmalyl-CoA lyase	
+3208525	3213285	4760	Predicted by at least one method		hcaR_1	NCJPFIPA_00707	3211805	3212683	1	Hca operon transcriptional activator HcaR	
+3208525	3213285	4760	Predicted by at least one method		atsA_2	NCJPFIPA_00706	3212731	3213285	-1	Arylsulfatase	
+3835572	3843174	7602	Predicted by at least one method			NCJPFIPA_03148	3835572	3836786	1	hypothetical protein	
+3835572	3843174	7602	Predicted by at least one method		mshA_3	NCJPFIPA_03149	3836843	3837988	-1	D-inositol-3-phosphate glycosyltransferase	
+3835572	3843174	7602	Predicted by at least one method			NCJPFIPA_03150	3838089	3838898	-1	hypothetical protein	
+3835572	3843174	7602	Predicted by at least one method		rfaY	NCJPFIPA_03151	3839048	3839746	-1	Lipopolysaccharide core heptose(II) kinase RfaY	
+3835572	3843174	7602	Predicted by at least one method			NCJPFIPA_03152	3839769	3840779	-1	hypothetical protein	
+3835572	3843174	7602	Predicted by at least one method			NCJPFIPA_03153	3840797	3841819	-1	hypothetical protein	
+3835572	3843174	7602	Predicted by at least one method		rfaB	NCJPFIPA_03154	3841816	3842895	-1	Lipopolysaccharide 1,6-galactosyltransferase	
+3835572	3843174	7602	Predicted by at least one method			NCJPFIPA_03155	3842965	3843174	-1	hypothetical protein	
+3877291	3888802	11511	Predicted by at least one method		recF_2	NCJPFIPA_03188	3877291	3877605	1	DNA replication and repair protein RecF	
+3877291	3888802	11511	Predicted by at least one method			NCJPFIPA_03189	3877606	3878481	1	hypothetical protein	
+3877291	3888802	11511	Predicted by at least one method			NCJPFIPA_03190	3878481	3878828	1	hypothetical protein	
+3877291	3888802	11511	Predicted by at least one method			NCJPFIPA_03191	3879015	3880052	1	hypothetical protein	
+3877291	3888802	11511	Predicted by at least one method			NCJPFIPA_03192	3880164	3880337	-1	hypothetical protein	
+3877291	3888802	11511	Predicted by at least one method		ecpR	NCJPFIPA_03193	3881351	3881968	1	HTH-type transcriptional regulator EcpR	
+3877291	3888802	11511	Predicted by at least one method			NCJPFIPA_03194	3882043	3884910	1	hypothetical protein	
+3877291	3888802	11511	Predicted by at least one method			NCJPFIPA_03195	3885005	3885469	-1	hypothetical protein	
+3877291	3888802	11511	Predicted by at least one method			NCJPFIPA_03196	3885480	3886337	-1	hypothetical protein	
+3877291	3888802	11511	Predicted by at least one method		ycaC_1	NCJPFIPA_03197	3887121	3887801	1	putative hydrolase YcaC	
+3877291	3888802	11511	Predicted by at least one method			NCJPFIPA_03198	3888030	3888509	-1	hypothetical protein	
+3877291	3888802	11511	Predicted by at least one method			NCJPFIPA_03199	3888710	3888802	-1	hypothetical protein	
+3906833	3913269	6436	Predicted by at least one method		ptsH_1	NCJPFIPA_03216	3906833	3907102	-1	Phosphocarrier protein HPr	
+3906833	3913269	6436	Predicted by at least one method		fba	NCJPFIPA_03217	3907112	3907972	-1	Fructose-bisphosphate aldolase	
+3906833	3913269	6436	Predicted by at least one method		glpK_2	NCJPFIPA_03218	3908035	3909519	-1	Glycerol kinase	
+3906833	3913269	6436	Predicted by at least one method		gatC_3	NCJPFIPA_03219	3909512	3910870	-1	PTS system galactitol-specific EIIC component	
+3906833	3913269	6436	Predicted by at least one method		gatB_3	NCJPFIPA_03220	3910946	3911233	-1	PTS system galactitol-specific EIIB component	
+3906833	3913269	6436	Predicted by at least one method		gatA_2	NCJPFIPA_03221	3911230	3911703	-1	PTS system galactitol-specific EIIA component	
+3906833	3913269	6436	Predicted by at least one method		mngR_2	NCJPFIPA_03222	3911721	3912464	-1	Mannosyl-D-glycerate transport/metabolism system repressor MngR	
+3906833	3913269	6436	Predicted by at least one method			NCJPFIPA_03223	3912817	3913269	-1	hypothetical protein	
+4385312	4389912	4600	Predicted by at least one method			NCJPFIPA_02329	4385312	4385944	1	hypothetical protein	
+4385312	4389912	4600	Predicted by at least one method			NCJPFIPA_02330	4385941	4387329	1	hypothetical protein	
+4385312	4389912	4600	Predicted by at least one method		tolC_2	NCJPFIPA_02331	4387319	4388638	1	Outer membrane protein TolC	
+4385312	4389912	4600	Predicted by at least one method		prsE_1	NCJPFIPA_02332	4388635	4389912	1	Type I secretion system membrane fusion protein PrsE	
+4463831	4470080	6249	Predicted by at least one method			NCJPFIPA_02385	4463831	4464193	-1	hypothetical protein	
+4463831	4470080	6249	Predicted by at least one method		rcsB_1	NCJPFIPA_02386	4464346	4464618	-1	Transcriptional regulatory protein RcsB	
+4463831	4470080	6249	Predicted by at least one method		gadX_2	NCJPFIPA_02387	4464630	4465505	-1	HTH-type transcriptional regulator GadX	
+4463831	4470080	6249	Predicted by at least one method			NCJPFIPA_02388	4466308	4466601	1	hypothetical protein	
+4463831	4470080	6249	Predicted by at least one method			NCJPFIPA_02389	4466598	4467089	1	hypothetical protein	
+4463831	4470080	6249	Predicted by at least one method		phoC	NCJPFIPA_02390	4467337	4468089	-1	Major phosphate-irrepressible acid phosphatase	
+4463831	4470080	6249	Predicted by at least one method			NCJPFIPA_02391	4469299	4469676	-1	hypothetical protein	
+4463831	4470080	6249	Predicted by at least one method		hmrR_2	NCJPFIPA_02392	4469748	4470080	1	HTH-type transcriptional regulator HmrR	
+4660565	4665147	4582	Predicted by at least one method			NCJPFIPA_01156	4660565	4660861	-1	hypothetical protein	
+4660565	4665147	4582	Predicted by at least one method			NCJPFIPA_01155	4660915	4661523	1	hypothetical protein	
+4660565	4665147	4582	Predicted by at least one method		nucS	NCJPFIPA_01154	4661775	4662770	1	Endonuclease NucS	
+4660565	4665147	4582	Predicted by at least one method			NCJPFIPA_01153	4663046	4663957	1	hypothetical protein	
+4660565	4665147	4582	Predicted by at least one method			NCJPFIPA_01152	4664162	4664623	1	hypothetical protein	
+4660565	4665147	4582	Predicted by at least one method			NCJPFIPA_01151	4664620	4665147	-1	hypothetical protein	
+4833572	4871248	37676	Predicted by at least one method			NCJPFIPA_04557	4833572	4833874	1	hypothetical protein	
+4833572	4871248	37676	Predicted by at least one method			NCJPFIPA_04558	4833929	4834147	1	hypothetical protein	
+4833572	4871248	37676	Predicted by at least one method			NCJPFIPA_04559	4834501	4834644	-1	hypothetical protein	
+4833572	4871248	37676	Predicted by at least one method			NCJPFIPA_04548	4837472	4837711	-1	hypothetical protein	
+4833572	4871248	37676	Predicted by at least one method			NCJPFIPA_04549	4837754	4838863	-1	hypothetical protein	
+4833572	4871248	37676	Predicted by at least one method			NCJPFIPA_04550	4838874	4839785	-1	hypothetical protein	
+4833572	4871248	37676	Predicted by at least one method		oadA	NCJPFIPA_04567	4840927	4841262	1	Oxaloacetate decarboxylase alpha chain	
+4833572	4871248	37676	Predicted by at least one method			NCJPFIPA_04568	4841895	4842092	-1	hypothetical protein	
+4833572	4871248	37676	Predicted by at least one method			NCJPFIPA_04571	4848352	4848912	1	IS3 family transposase ISSty2	
+4833572	4871248	37676	Predicted by at least one method			NCJPFIPA_04560	4854657	4854815	-1	hypothetical protein	
+4833572	4871248	37676	Predicted by at least one method			NCJPFIPA_04561	4855214	4855618	-1	hypothetical protein	
+4833572	4871248	37676	Predicted by at least one method			NCJPFIPA_04562	4855748	4855984	1	hypothetical protein	
+4833572	4871248	37676	Predicted by at least one method			NCJPFIPA_04572	4862613	4863071	1	IS200/IS605 family transposase IS200F	
+4833572	4871248	37676	Predicted by at least one method			NCJPFIPA_04503	4867409	4867783	1	hypothetical protein	
+4833572	4871248	37676	Predicted by at least one method		dsbE	NCJPFIPA_04504	4868287	4868844	-1	Thiol:disulfide interchange protein DsbE	
+4833572	4871248	37676	Predicted by at least one method		ccmF	NCJPFIPA_04505	4868841	4870772	-1	Cytochrome c-type biogenesis protein CcmF	
+4833572	4871248	37676	Predicted by at least one method		ccmE	NCJPFIPA_04506	4870769	4871248	-1	Cytochrome c-type biogenesis protein CcmE	
+4833572	4871248	37676	Predicted by at least one method		ccmD	NCJPFIPA_04507	4871245	4871418	-1	Heme exporter protein D	
+4833572	4837711	4139	Predicted by at least one method			NCJPFIPA_04557	4833572	4833874	1	hypothetical protein	
+4833572	4837711	4139	Predicted by at least one method			NCJPFIPA_04558	4833929	4834147	1	hypothetical protein	
+4833572	4837711	4139	Predicted by at least one method			NCJPFIPA_04559	4834501	4834644	-1	hypothetical protein	
+4833572	4837711	4139	Predicted by at least one method			NCJPFIPA_04548	4837472	4837711	-1	hypothetical protein	
+4841895	4855618	13723	Predicted by at least one method			NCJPFIPA_04568	4841895	4842092	-1	hypothetical protein	
+4841895	4855618	13723	Predicted by at least one method			NCJPFIPA_04571	4848352	4848912	1	IS3 family transposase ISSty2	
+4841895	4855618	13723	Predicted by at least one method			NCJPFIPA_04560	4854657	4854815	-1	hypothetical protein	
+4841895	4855618	13723	Predicted by at least one method			NCJPFIPA_04561	4855214	4855618	-1	hypothetical protein	
+4862613	4873516	10903	Predicted by at least one method			NCJPFIPA_04572	4862613	4863071	1	IS200/IS605 family transposase IS200F	
+4862613	4873516	10903	Predicted by at least one method			NCJPFIPA_04503	4867409	4867783	1	hypothetical protein	
+4862613	4873516	10903	Predicted by at least one method		dsbE	NCJPFIPA_04504	4868287	4868844	-1	Thiol:disulfide interchange protein DsbE	
+4862613	4873516	10903	Predicted by at least one method		ccmF	NCJPFIPA_04505	4868841	4870772	-1	Cytochrome c-type biogenesis protein CcmF	
+4862613	4873516	10903	Predicted by at least one method		ccmE	NCJPFIPA_04506	4870769	4871248	-1	Cytochrome c-type biogenesis protein CcmE	
+4862613	4873516	10903	Predicted by at least one method		ccmD	NCJPFIPA_04507	4871245	4871418	-1	Heme exporter protein D	
+4862613	4873516	10903	Predicted by at least one method		ccmC	NCJPFIPA_04508	4871454	4872191	-1	Heme exporter protein C	
+4862613	4873516	10903	Predicted by at least one method		ccmB	NCJPFIPA_04509	4872243	4872899	-1	Heme exporter protein B	
+4862613	4873516	10903	Predicted by at least one method		ccmA	NCJPFIPA_04510	4872899	4873516	-1	Cytochrome c biogenesis ATP-binding export protein CcmA	

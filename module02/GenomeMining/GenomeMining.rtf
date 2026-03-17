@@ -1,0 +1,60 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2868
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww9360\viewh10180\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Genome Mining\
+\
+Step 1)\
+Search for antimicrobial resistance genes using the Comprehensive Antibiotic Resistance Database (CARD)\
+Tool: https://card.mcmaster.ca/analyze/rgi\
+Version: 4.0.1\
+Parameters: Filtered contigs; default parameters\
+File saved: screenshot if few results; table if more\
+\
+Step 2)\
+Search for AMR using ResFinder\
+Tool: https://genepi.food.dtu.dk/resfinder\
+Version: 4.7.2\
+Parameters: default; filtered contigs\
+File saved: Screenshot of results\
+\
+Step 3) \
+Predict pathogenic potential\
+Tool: Pathogen Finder 2 https://genepi.food.dtu.dk/pathogenfinder\
+Version: 0.6.0\
+Parameters: Default; filtered contigs\
+\
+Step 4)\
+Secondary metabolites production\
+Tool: antiSMASH\
+Version: 8\
+Parameters: Default; filtered contigs\
+File: Screenshot of results\
+\
+Step 5) \
+Search for Prophage\
+Tool: PHASTER https://phaster.ca/\
+Version: 4.3X\
+Parameters: Check \'93my input consists of multiple separate contigs\'94; filtered contigs\
+\
+Step 6) \
+Look for pathogenicity islands\
+Tool: IslandViewer https://www.pathogenomics.sfu.ca/islandviewer/upload/\
+Version: 4\
+Parameters: Click genome upload at the top of the screen; upload Prokka.genbank; select reference strain (Salmonella typhimurium)\
+File:\
+\
+Step 7) \
+Search for CRISPR regions\
+Tool: CRISPRCasFinder https://crisprcas.i2bc.paris-saclay.fr/\
+Version: Web\
+Parameters: default; filtered contigs\
+\
+Step 8)\
+VirulenceFinder (through Galaxy)\
+Tool: ABRicate\
+Version: Galaxy version 1.0.1\
+Parameters: VFDB; Prokka gbk}
