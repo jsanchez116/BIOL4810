@@ -1,0 +1,137 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2868
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Oblique;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11260\viewh12340\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Section Report 02 Notes\
+\
+Step 0) Initial Set-Up \
+- Create Main Folder: SectionReport02_WGS\
+- Create Subfolders: TYGS, TrimmedFastQC, RawFastQC, QUAST, Prokka, MiningFiles, FilteredAssembly, Fastp, CheckM2, Assembly, ANI\
+- Create New History in Galaxy \
+- Upload both read files\
+- Combine both read files into a paired list\
+	- Autobuild list and named it \'93SR02SequencingReads\'94)\
+\
+Step 1) Assessed Raw Read Quality\
+- Tool: FastQC\
+- Version: Galaxy Version 0.74+galaxy1\
+Parameters: Default\
+Files Downloaded: Forward and Reverse .html files (Named \'93ReverseRawFastQC.html\'94 and \'93ForwardRawFastQC.html\'94) into the RawFastQC folder.\
+\
+Step 2) Trimmed Raw Reads\
+- Tool: Fastp\
+- Version: Galaxy version 1.1.0+galaxy0\
+- Parameters: Default\
+- Files Downloaded: fastp report .html file (Named \'93SR02FastpReport.html\'94) into Fastp folder\
+\
+Step 3) Assessed Trimmed Read Quality\
+- Tool: FastQC\
+- Version: Galaxy Version 0.74+galaxy1\
+Parameters: Default\
+Files Downloaded: Trimmed Forward and Trimmed Reverse .html files (Named \'93ReverseTrimmedFastQC.html\'94 and \'93ForwardTrimmedFastQC.html\'94) into the TrimmedFastQC folder.\
+\
+Step 4) Assembled the Genome\
+- Tool: SPAdes\
+- Version: Galaxy Version 4.2.0+galaxy0\
+- Parameters: Default\
+- File Assembled: Fastp trimmed output\
+- File Downloaded: Contigs file (Named \'93SR02AssemblyContigs.fasta\'94) into the Assembly folder\
+\
+Step 5) Assessed Quality of Contigs\
+- Tool: Quast\
+- Version: Galaxy Version 5.3.0+galaxy1\
+- Parameters\'94 Default with PDF output\
+- File Assessed: SPAdes contigs\
+- File Downloaded: PDF report (Named \'93SR02Quast.pdf\'94) into QUAST folder\
+\
+Step 6) Filter Contigs less than 500bp\
+- Tool: Filter FASTA\
+- Version: Galaxy Version 2.3\
+- Parameters: Filtered based on sequence length, minimum length: 500bp\
+- File Assessed: SPAdes contigs\
+- File Downloaded: Filtered contigs output (Named \'93SR02FilteredContigs.fasta\'94) into FilteredContigs folder\
+\
+Step 7) Genome Quality Assessment Using CheckM2\
+- Tool: CheckM2\
+- Version: Galaxy Version 1.10+galaxy0\
+- Parameters: Model Options - Output quality prediction for both models for each genome\
+- File Assessed: Contigs\
+- File Downloaded: CheckM2 report (Named \'93SR02CheckM2.tabular\'94) into CheckM2 folder\
+\
+Step 8) Genome Annotation\
+- Tool: Prokka\
+- Version: Galaxy Version 1.14.6+galaxy1\
+- Parameters: Force GenBank compliance - YES\
+- File Assessed: Filtered contigs\
+- File Downloaded: Summary, GenBank format annotation file, and nucleotide sequence of features (Named \'93SR02Prokka.txt\'94, \'93SR02Prokka.genbank\'94, and \'93Sr02Prokkaffn.fasta\'94) saved into Prokka folder\
+\
+Step 9) Species ID Using BLAST\
+- Tool: BLAST\
+- Version: BLASTn (web)\
+- Parameters: rRNA/ITS database\
+\
+Step 10) Determine the Average Nucleotide Identity\
+- Tool: https://www.ezbiocloud.net/tools/ani\
+- Version: Website\
+- Parameters: Upload the filtered contigs file from the earlier step (#6) in addition to either the FASTA file for the top match (
+\f1\i Streptomyces tendae
+\f0\i0 ) or a more distant relative (
+\f1\i Streptomyces rubrogriseus
+\f0\i0 ). Their FASTA files were downloaded into the folder named ANI. Do with both and compare the results.\
+\
+Step 11) Build Phylogenetic Tree and visualize\
+- Tool: Type Strain Genome Server (https://tygs.dsmz.de/) and Interactive Tree of Life (for visualization)\
+- Version: TYGS (web), iTOL (v7 - web)\
+- Note: Filtered contigs file was submitted in advance, however, TYGS has not (as of 3/24/2026) returned the results. The submission page and the progress bar were saved in the folder named TYGS.\
+\
+Step 12) Search for Antimicrobial Resistance Genes using CARD\
+- Tool: https://card.mcmaster.ca/analyze/rgi\
+- Version: RGI Version 6.0.5, CARD Version 4.0.1\
+- Parameters: Filtered contigs; default parameters\
+- File Downloaded: Screenshot of table (Named \'93STendaeCardRgi\'94) and saved in MiningFiles folder\
+\
+Step 13) Search for AMR using ResFinder\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 - Tool: https://genepi.food.dtu.dk/resfinder\
+- Version: 4.7.2\
+- Parameters: default; Inputted filtered contigs\
+- File Downloaded: Screenshot of results (Named \'93STendaeResFinder\'94) and saved in MiningFiles folder\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+Step 14) Predict Pathogenic Potential\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 - Tool: Pathogen Finder 2 https://genepi.food.dtu.dk/pathogenfinder\
+- Version: 0.6.0\
+- Parameters: Default; Inputted filtered contigs\
+- File Downloaded: Screenshot of results (Named \'93STendaePathogenFinder\'94) and saved in MiningFiles folder\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+Step 15) VirulenceFinder (through Galaxy)\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 - Tool: ABRicate\
+- Version: Galaxy version 1.0.1\
+- Parameters: VFDB; Inputted Prokka gbk file\
+- File Downloaded: Tabular file of results saved (Named \'93STendaeABRicateVFDB.tabular\'94) and saved in MiningFiles folder\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+Step 16) Search for Secondary Metabolites Production\
+- Tool: antiSMASH\
+- Version: 8\
+- Parameters: Default; Inputted filtered contigs\
+- File Downloaded: Screenshot of results (Named \'93STendaeAntiSmash\'94) and saved in MiningFiles folder\
+\
+Step 17) Search for Pathogenicity Islands\
+- Tool: IslandViewer https://www.pathogenomics.sfu.ca/islandviewer/upload/\
+- Version: 4\
+- Parameters: Default; upload genbank profile from Prokka; Reference Strain:
+\f1\i  Streptomyces tendae
+\f0\i0  strain 139 chromosome, complete genome. (NZ_CP043959.1)\
+- File Downloaded: Screenshot of results (Named \'93STendaeIslandViewer4\'94) and saved in MiningFiles folder\
+\
+Step 18) Search for CRISPR regions\
+- Tool: CRISPRCasFinder https://crisprcas.i2bc.paris-saclay.fr/\
+- Version: Web\
+- Note: No results were found as CRISPRCasFinder said the sequence was >100 and CRSIPRCasMeta did not give a result.}
