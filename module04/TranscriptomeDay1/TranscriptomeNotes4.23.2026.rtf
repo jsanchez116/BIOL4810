@@ -1,0 +1,54 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2868
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Bold;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10420\viewh15380\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Transcriptome Notes for April 23, 2026\
+\ul Msc. Notes:\ulnone \
+Samples.csv = Metadata file\
+.gff file = Annotation file from Prokka\
+\'93Transcriptome\'94 = Forward and Reverse Reads (list)\
+\
+Step 1)\
+Assess quality with using Falco.\
+Purpose: Looks at and assesses quality of the 6 reads. Useful for guiding trimming.\
+Tool: Falco (alternative for FastQC)\
+Version: Galaxy Version 1.2.4+galaxy0\
+Parameters: Default; on Transcriptome dataset collection.\
+Files Saved: FalcoPlate1ForwardQC.html and FalcoPlate1ReverseQC.html
+\f1\b \
+
+\f0\b0 Notes: PolyG and PolyA remained in both the forward and reverse reads of Plate 1. Additionally, neither reads had sequences that were flagged as poor quality. Overall, both reads for plate one were similar in quality. \
+\
+Step 2)\
+Trim portions of the reads that do not meet the requirements of quality control.\
+Purpose: Trimming reads to remove adapters, contaminants, and low quality scoring reads resulting from sequencing.\
+Tool: Fastp\
+Version: Galaxy Version 1.3.1+galaxy0\
+Parameters: Paired Collection; on Transcriptome collection.\
+File Saved: Plate1FastpReport.html\
+Notes: Started with 18.29 M reads before filtering and had 17.56 M reads after filtering. 477.60K reads were determined to be of low quality, 84.35K reads had too many N, 162.55K were too short, and 3.91K had an adapter dimer.\
+\
+Step 3) \
+Align the transcriptome reads with the reference genome. \
+Purpose: To use an aligner (HISAT2) that will take the reads and align them against the provided genome (promicromonospora.fasta).\
+Tool: HISAT2\
+Version: Galaxy Version 2.2.2+galaxy0\
+Parameters: Source is \'93Use a genome from history\'94 and the reference genome is \'93promicromonospora.fasta\'94; Set up for a \'93Paired-end Dataset Collection\'94 using the fastp output.\
+Notes: Result is a BAM alignment file that tries to put the reads on your genome.\
+\
+Step 4) \
+Assembling the transcript.\
+Purpose: Taking the short reads and figuring out the transcript that they all belong to (AKA assembling the transcript).\
+Tool: StringTie\
+Version: Galaxy Version 2.2.3+galaxy0\
+Parameters: Input options \'97 Short reads on the HISAT2 output; \'93Use reference GTF/GFF3\'94 and select \'93Use a file from history\'94 (promicromonospora.gff)\
+\
+Step 5)\
+Combining all the reads from StringTie into one.\
+Purpose: To put all the reads together rather than having six different files.\
+Tool: StringTie Merge\
+Version: Galaxy Version 2.2.3+galaxy0\
+Parameters: Use dataset collection and select the StringTie output.}
