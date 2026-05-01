@@ -26,74 +26,54 @@ Notes: This new top 10 up- and down- file should be uploaded to galaxy. Then nee
 From both files, it will have the stats, log change, the P value, and the count values for each sample/gene.\
 Tool: Join two Datasets (side by side on a specified field)\
 Version: Galaxy Version 2.1.3\
-Parameters: Join the top 10 file using column 1 with the normalized counts file and column 1; \
-Notes: _______\
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-\cf0 \
+Parameters: Join the top 10 file using column 1 with the normalized counts file and column 1; Set \'93Keep the header lines\'94 to true.\
 \
-Conserve those normalized counts \
+Step 4) Remove unnecessary columns.\
+Original dataset has extraneous information and only wanted to keep columns 8-14.\
+Tool: Cut (columns from a table)\
+Version: Galaxy Version 1.0.2\
+Parameters: Cut columns \'93c8-c14\'94; From \'93Join two datasets\'94\
+Notes: Only wanted to have all gene names in column 1, plate replicates, and broth replicates.\
 \
-Tool cut columns from a table,\
-Parameters: Cut columns: C8-C14\
-Run \'97 have all gene names in column 1, plate replicates, broth replicates\
+Step 5) Create a heat map.\
+Used to visualize portions of the data. Typically, the darker (or more intense) the color is, the greater the expression level.\
+Tool: Heatmap2\
+Version: Galaxy Version 3.3.0+galaxy0\
+Parameters: Input should be the result from the cutting tool; data transformation: Log2(value+1) transform my data; colormap pattern can vary (mine was the blues)\
 \
+Step 6) Filter for potential coding sequences.\
+Want to add a column that will tell us what the genes are doing. Need to remove noncoding sequences from the annotation (gff) file.\
+Tool: Filter (data on any column using simple expressions)\
+Version: Galaxy Version 1.1.1\
+Parameters: Filter the promicromonospora.gff file; set with the following condition to \'93c3=\'91CDS\'92\'94; all else default.\
+Notes: Used for associating gene functions.\
 \
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-\cf0 Generate a heat map using\
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-\cf0 Tool Heatmap2\
-Parameters: Transform data to log 2 value plus 1, type of colormap is up to us, \
+Step 7) Keep only column 9 (attributes).\
+Output file from step 6 has extraneous information and only want to keep column 9 (attributes)\
+Tool: Cut (columns from a table)\
+Version: Galaxy Version 1.0.2\
+Parameters: Set cut columns to c9 using the output of the prior step.\
 \
+Step 8) Separate all the information into multiple columns.\
+Information is grouped into one column and are separated by semicolon. Want to separate the information into multiple columns for ease of use.\
+Tool: Convert (delimiters to TAB)\
+Version: Galaxy Version 1.0.1\
+Parameters: Set convert all (delimiters) to \'93semicolons\'94; the dataset should be set to the output of step 7; all else default\
 \
-Add column that tells us what the gene is doing (associating gene functions)\
-promicromonospora.gff\
-Filter data on any column using simple expressions \
-- removes everything in the gff (or annotation file) that is not a potential coding sequence\
-	- run\
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-\cf0 \
-Now only want to keep column nine\
-- Tool cut\
+Step 9) Replace extraneous text.\
+Column two lists the gene name but also has \'93Parent=\'93 which is extra information. Want to remove this part of the gene name.\
+Tool: Replace Text (in a specific column)\
+Version: Galaxy Version 9.5+galaxy3\
+Parameters: Use the output of the previous step; in column should be set to \'93Column:2\'94; set the find pattern option to \'93Parent=\'94\
 \
-File jams all the information about a gene into one column (harder to interpret)\
-- Tool convert delimiters to TAB\
-- the delimiter we are working with is a semicolon\
-- Will look at each row and and separate the text in between semicolons and puts them into separate columns\
+Step 10) Cut out other extraneous information.\
+Only want to keep the gene name (column 2) and the gene product (column 8).\
+Tool: Cut (columns from a table)\
+Version: Galaxy Version 1.0.2\
+Parameters: Set cut columns to \'93c2,c8\'94; apply this on the output from the prior step; all else default.\
 \
-\
-- column two has gene name but also has \'93Parent=\'93\
-Tool replace text in a specific column\
-\
-- column eight tells you the gene product (gene function - the thing we need for the analysis) - need gene name, product, and expression together\
-- cut tool, c2,c8 to only keep those columns => product only has gene name and product\
-\
-Join two datasets side by side on a specified field (add a column that tells us what the gene possibly does)\
-\
-\
-Step ___) ___________.\
-______(Description)_______\
-Tool: ________\
-Version: Galaxy Version _____\
-Parameters: _______\
-Notes: _______\
-\
-Step ___) ___________.\
-______(Description)_______\
-Tool: ________\
-Version: Galaxy Version _____\
-Parameters: _______\
-Notes: _______\
-\
-Step ___) ___________.\
-______(Description)_______\
-Tool: ________\
-Version: Galaxy Version _____\
-Parameters: _______\
-Notes: _______\
-\
-Step ___) ___________.\
-______(Description)_______\
-Tool: ________\
-Version: Galaxy Version _____\
-Parameters: _______\
-Notes: _______}
+Step 11) Combine the gene name, product, and expression together.\
+Want all information side-by-side and in one file. \
+Tool: Join two datasets (side by side on a specified field)\
+Version: Galaxy Version 2.1.3\
+Parameters: Set join to the output of the prior step and set using column to \'93Column: 1\'94; set with to the Top10List and set and column to \'93Column: 1\'94; set keep the header lines to \'93Yes\'94; all else default.}
